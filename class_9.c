@@ -9,10 +9,11 @@
 
 int deep(); //Decleration
 
-void main()
+int main()
 {
 	int result = deep();     //Calling Function
 	printf("Total Sum is %d",result);
+
 }
 
 
